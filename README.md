@@ -575,7 +575,7 @@ Este script está diseñado para **protección legítima**. NO debe usarse para:
 
 - 💬 [Discusiones](https://github.com/KevinGil12C/securelock/discussions)
 - 🐛 [Reportar Bug](https://github.com/KevinGil12C/securelock/issues)
-- 📧 Email: tu-email@ejemplo.com
+- 📧 Email: kebo.jcg77@gmail.com
 
 ### Recursos Adicionales
 
