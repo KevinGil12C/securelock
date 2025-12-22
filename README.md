@@ -520,7 +520,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ```
 MIT License
 
-Copyright (c) 2025 [Tu Nombre]
+Copyright (c) 2025 KevinGil12C
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y archivos de documentación asociados (el "Software"), para
@@ -626,6 +626,6 @@ Este script está diseñado para **protección legítima**. NO debe usarse para:
 
 **Hecho con ❤️ para la comunidad de seguridad informática**
 
-[⬆ Volver arriba](#-sistema-de-protección-completa-v31)
+[⬆ Volver arriba](#-securelock)
 
 </div>
