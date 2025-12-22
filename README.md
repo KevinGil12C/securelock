@@ -30,7 +30,7 @@
 
 ## 🎯 Descripción
 
-Script automatizado en Batch para **limpiar y proteger equipos de segunda mano** contra software espía, malware, acceso remoto no autorizado y puertas traseras. Diseñado para usuarios que no pueden formatear inmediatamente su equipo pero necesitan protección mientras tanto.
+Script automatizado en Batch para **limpiar y proteger equipos de segunda mano** contra software espía, malware, acceso remoto no autorizado y puertas traseras. Diseñado para s que no pueden formatear inmediatamente su equipo pero necesitan protección mientras tanto.
 
 ### ⚠️ **Importante**
 Este script es una **solución temporal**. La única forma de garantizar 100% la seguridad en un equipo de segunda mano es realizar un **formateo completo** y reinstalación limpia de Windows.
@@ -85,10 +85,9 @@ Este script es una **solución temporal**. La única forma de garantizar 100% la
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/sistema-proteccion-completa.git
-
+git clone https://github.com/KevinGil12C/securelock
 # Navegar al directorio
-cd sistema-proteccion-completa
+cd securelock
 ```
 
 ### Opción 2: Descarga manual
@@ -272,7 +271,7 @@ El script crea una carpeta en el **Escritorio** llamada `LIMPIEZA_EQUIPO_AAAAMMD
 | `conexiones_completas.txt` | Listado completo de puertos y conexiones |
 | `drivers_sistema.csv` | Lista de todos los drivers instalados |
 | `tareas_antes.txt` | Tareas programadas antes de la limpieza |
-| `backup_run_user.reg` | Backup del registro de usuario |
+| `backup_run_user.reg` | Backup del registro de  |
 | `backup_run_machine.reg` | Backup del registro del sistema |
 | `hosts_backup.txt` | Backup del archivo hosts original |
 
@@ -375,7 +374,7 @@ El script puede detectar como sospechosos:
 ```
 1. Clic derecho en el archivo .bat
 2. Seleccionar "Ejecutar como administrador"
-3. Aceptar el control de cuentas de usuario (UAC)
+3. Aceptar el control de cuentas de  (UAC)
 ```
 
 ### Problema: "No puedo navegar en internet después del script"
